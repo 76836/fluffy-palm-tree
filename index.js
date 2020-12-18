@@ -2,7 +2,7 @@
 
 enter your name and click submit
 
-<input id="test" type=text><button onclick="redirect(test)">Submit</button>
+<input id="test" type=text><button onclick="redirect()">Submit</button>
 
 function redirect()
   {
